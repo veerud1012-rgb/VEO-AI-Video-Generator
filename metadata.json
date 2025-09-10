@@ -1,0 +1,5 @@
+{
+  "name": "VEO AI Video Generator",
+  "description": "A web application that uses Google's VEO model to generate realistic, high-definition 10-second videos from text and image prompts. Experience the future of AI-powered video creation.",
+  "requestFramePermissions": []
+}
